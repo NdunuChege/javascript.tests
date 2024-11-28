@@ -1,0 +1,17 @@
+variables
+data types
+conditional statements
+logical operators
+functions and scope
+scoping - location at where you declare your variables
+ (types of scopes)
+ global scope, local/function scope, block scope
+ let,
+ const,
+ var
+  fucntion <function_name> ()
+  parameters and arguments
+  interpolation
+  bracket notation
+  REsearch on a methhod called - slice()
+
